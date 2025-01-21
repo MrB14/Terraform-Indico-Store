@@ -1,5 +1,4 @@
-# Terraform configuration for Indico Store's EKS-based infrastructure
-
+# Terraform configuration for Indico Store's EKS-based
 # Define Terraform provider
 provider "aws" {
   region  = var.aws_region
